@@ -1,0 +1,12 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/toumin</item>
+        <item name="colorPrimaryDark">@color/dodgerblue</item>
+        <item name="colorAccent">@color/dodgerblue</item>
+        <item name="android:textColorPrimary">@color/aliceblue</item>
+
+        <item name="windowActionBarOverlay">true</item>
+    </style>
+
+</resources>
